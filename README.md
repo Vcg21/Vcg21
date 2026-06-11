@@ -1,9 +1,5 @@
 ☁️ I’m learning Cloud, Network, AI
 
-📫 How to reach me peopleundercloud@gmail.com
-
-📚 My Blog: https://euidong.github.io
-
 Languages:
  <h3>Languages</h3>
 
